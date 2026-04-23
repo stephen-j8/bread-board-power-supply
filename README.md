@@ -24,7 +24,8 @@ My second PCB Project (Bread-board-power-supply), designed in KiCad
 - /pro : main accumulation of files
 
 ## PCB Preveiw
-<img width="1578" height="805" alt="Screenshot 2026-04-23 070613" src="https://github.com/user-attachments/assets/95697b88-3ad3-43f1-a887-c10668e55252" />
+<img width="802" height="888" alt="Screenshot 2026-04-23 070656" src="https://github.com/user-attachments/assets/e459f547-12ff-43e4-ae9e-a7c18bce440c" />
+
 
 ## Bill Of Materials
 Kindly see the .CSV File
